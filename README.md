@@ -41,4 +41,4 @@ Menu Page - Displays all available Burgers and Sides
 
 ## Authors
 
-* **Stefanie Ding** - *JS/Node.js/Handlebars* - [Stefanie Ding](https://github.com/StefanieDing)
+* **Avram Adam** - *JS/Node.js/Handlebars* - [Avram Adam](https://github.com)
